@@ -29,9 +29,10 @@ I´m a computer science student at HKA, interested in cybersecurity and software
 
 ## 📊 GitHub Stats 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyingG0rila&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyingG0rilla&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingG0rila&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingG0rilla&layout=compact&theme=radical)
+
 
 
 
