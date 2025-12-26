@@ -1,14 +1,14 @@
-## Hello there, I´m Dennis
+## 👌 Hello there, I´m Dennis
 
-I´m a computer science student at HKA, interested in cybersecurity and software development. Also working as a hobby game dev using Unity-Engine and SDL2/OpenGL.
+I´m a computer science student at the HKA – Karlsruhe University of Applied Sciences, interested in cybersecurity and software development. Also working as a hobby game dev using Unity-Engine and SDL2/OpenGL.
 
-## 🛠️ Skills and Technolegies:
+## 🛠️ Skills and Technologies:
 - **Languages:** C#, Java, C/C++, SQL, Kotlin
-- **Tools:** Eclipse, Visual Studio/Visual Studion Code, CLion, Git
+- **Tools:** Eclipse, Visual Studio/Visual Studio Code, CLion, Git
 
 ## 🚀 Current Projects:
 - **Arcade Game**  
-  - Currently working on an arcade game in C++ with SDL2 and GPT-5 as part of a college project. The goal is to learn and document software development with advanced language models and gain a deeper understanding of their strengths and limitations.
+  - Currently working on an arcade game in C++ with SDL2 and GPT-5 as part of a university project. The goal is to learn and document software development with advanced language models and gain a deeper understanding of their strengths and limitations.
 
 - **3D Art Creator**  
   - Currently developing as part of a university lab project. This tool transforms images into templates for 3D toothpick artworks, enabling artists to easily design and visualize intricate 3D structures before building them.
@@ -18,10 +18,10 @@ I´m a computer science student at HKA, interested in cybersecurity and software
 
 ## 📂 Past Projects:
 - **Pixel Invaders**
-   - A simple and primitive remake of the popular arcade game *SpaceInvaders* made in Java with eclipse as part of a school assigment
+   - A simple and primitive remake of the popular arcade game *SpaceInvaders* made in Java with eclipse as part of a school assignment
 
 - **Business App Prototype** – Unity (University project)
-  - Created as part of a business- english course to visualize a product for a final sales pitch in a simulated company role-play. Focused on UI/UX design and prototype visualization.
+  - Created as part of a business English course to visualize a product for a final sales pitch in a simulated company role-play. Focused on UI/UX design and prototype visualization.
 
 - **Kitchen-Helper App Prototype** – Unity (University project)
   - Created for a Design course to prototype an app concept that helps users manage daily kitchen routines, combining a nutrition tracker, recipe browser, and smart device integration.
