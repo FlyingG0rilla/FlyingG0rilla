@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hello there, I´m Dennis
+
+I´m a computer science student at HKA, interested in cybersecurity and software development. Also working as a hobby game dev using Unity-Engine and SDL2/OpenGL.
+
+## Skills and Technolegies:
+- **Languages:** C#, Java, C/C++, SQL, Kotlin
+- **Tools:** Eclipse, Visual Studio/Visual Studion Code, CLion, Git
+
+
+## Current Projects:
+- **Arcade Game** - Currently working on an arcade game in c++ with SDL2 and ChatGPT-5 as part of a college project. The goal of the project is to learn and document software development with advanced language models and gain a deeper understanding of their strengths and limitations.
+
+- **Tower Defence Game** Developing a tower defense game in C# with Unity as a personal project, trying to create a relaxing and strategic experiance inspired by *Clash of Clans* and *Bad North*.
+
+
+
 
 <!--
 **FlyingG0rilla/FlyingG0rilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
