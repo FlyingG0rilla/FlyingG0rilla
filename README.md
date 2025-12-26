@@ -14,6 +14,14 @@ I´m a computer science student at HKA, interested in cybersecurity and software
 - **Tower Defence Game:**
   Developing a tower defense game in C# with Unity as a personal project, trying to create a relaxing and strategic experiance inspired by *Clash of Clans* and *Bad        North*.
 
+## Past Projects:
+- **Business App Prototype** – Unity (University project)
+  - Created as part of a business- english course to visualize a product for a final sales pitch in a simulated company role-play. Focused on UI/UX design and prototype visualization.
+
+- **Kitchen-Helper App Prototype** – Unity (University project)
+  - Created for a Design course to prototype an app concept that helps users manage daily kitchen routines, combining a nutrition tracker, recipe browser, and smart device integration.
+
+
 
 
 
