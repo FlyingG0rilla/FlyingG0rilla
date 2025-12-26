@@ -6,16 +6,15 @@ I´m a computer science student at HKA, interested in cybersecurity and software
 - **Languages:** C#, Java, C/C++, SQL, Kotlin
 - **Tools:** Eclipse, Visual Studio/Visual Studion Code, CLion, Git
 
-
 ## 🚀 Current Projects:
-- **Arcade Game:**
-  - Currently working on an arcade game in c++ with SDL2 and ChatGPT-5 as part of a college project. The goal of the project is to learn and document software development with advanced language models and gain a deeper understanding of their strengths and limitations.
+- **Arcade Game**  
+  - Currently working on an arcade game in C++ with SDL2 and GPT-5 as part of a college project. The goal is to learn and document software development with advanced language models and gain a deeper understanding of their strengths and limitations.
 
-- **3D Art Creator:** 
-   - Currently developing as part of a university lab project, this tool transforms images into templates for 3D toothpick artworks, enabling artists to easily design and visualize intricate 3D images before building them as 3D art pieces.
+- **3D Art Creator**  
+  - Currently developing as part of a university lab project. This tool transforms images into templates for 3D toothpick artworks, enabling artists to easily design and visualize intricate 3D structures before building them.
 
-- **Tower Defence Game:**
-  - Developing a tower defense game in C# with Unity as a personal project, trying to create a relaxing and strategic experiance inspired by *Clash of Clans* and *Bad        North*.
+- **Tower Defense Game**  
+  - Developing a tower defense game in C# with Unity as a personal project, aiming to create a relaxing and strategic experience inspired by *Clash of Clans* and *Bad North*.
 
 ## 📂 Past Projects:
 - **Pixel Invaders**
