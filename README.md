@@ -8,10 +8,10 @@ I´m a computer science student at HKA, interested in cybersecurity and software
 
 
 ## Current Projects:
-- **Arcade Game: **
+- **Arcade Game:**
  Currently working on an arcade game in c++ with SDL2 and ChatGPT-5 as part of a college project. The goal of the project is to learn and document software development    with advanced language models and gain a deeper understanding of their strengths and limitations.
 
-- **Tower Defence Game: **
+- **Tower Defence Game:**
   Developing a tower defense game in C# with Unity as a personal project, trying to create a relaxing and strategic experiance inspired by *Clash of Clans* and *Bad        North*.
 
 
