@@ -8,7 +8,7 @@ I´m a computer science student at the HKA – Karlsruhe University of Applied S
 
 ## 🚀 Current Projects:
 - **Arcade Game**  
-  - Currently working on an arcade game in C++ with SDL2 and GPT-5 as part of a university project. The goal is to learn and document software development with advanced language models and gain a deeper understanding of their strengths and limitations.
+  - Currently working on an arcade game in C++ with SDL2 and GPT-5 as part of a university project. The goal is to learn and document larger scale software development with advanced language models and gain a deeper understanding of their strengths and limitations.
 
 - **3D Art Creator**  
   - Currently developing as part of a university lab project. This tool transforms images into templates for 3D toothpick artworks, enabling artists to easily design and visualize intricate 3D structures before building them.
