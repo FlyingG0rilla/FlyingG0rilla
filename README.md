@@ -4,16 +4,16 @@ I´m a computer science student at the HKA – Karlsruhe University of Applied S
 
 ## 🛠️ Skills and Technologies:
 - **Languages:**
-   C#, Java, C/C++, SQL, Python
+   - C#, Java, C/C++, SQL, Python
   
 - **Build Tools:**  
-  CMake (basic)
-
-  - **Tools & IDEs:**  
-  Eclipse, Visual Studio, Visual Studio Code, CLion
+    - CMake (basic)
+  
+- **Tools & IDEs:**  
+   - Eclipse, Visual Studio, Visual Studio Code, CLion
 
 - **Version Control:**  
-  Git, GitHub
+  - Git, GitHub
 
 ## 🚀 Current Projects:
 - **Arcade Game**  
