@@ -3,8 +3,17 @@
 I´m a computer science student at the HKA – Karlsruhe University of Applied Sciences, interested in cybersecurity and software development. Also working as a hobby game dev using Unity-Engine and SDL2/OpenGL.
 
 ## 🛠️ Skills and Technologies:
-- **Languages:** C#, Java, C/C++, SQL, Kotlin
-- **Tools:** Eclipse, Visual Studio/Visual Studio Code, CLion, Git
+- **Languages:**
+   C#, Java, C/C++, SQL, Python
+  
+- **Build Tools:**  
+  CMake (basic)
+
+  - **Tools & IDEs:**  
+  Eclipse, Visual Studio, Visual Studio Code, CLion
+
+- **Version Control:**  
+  Git, GitHub
 
 ## 🚀 Current Projects:
 - **Arcade Game**  
