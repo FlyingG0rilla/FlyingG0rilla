@@ -37,7 +37,7 @@ I´m a computer science student at the HKA – Karlsruhe University of Applied S
 
 ## 📫 Contact / Links
 
-
+<!--
 ## 📊 GitHub Stats 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyingG0rilla&show_icons=true&theme=radical)
