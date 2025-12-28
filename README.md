@@ -6,14 +6,14 @@ I´m a computer science student at the HKA – Karlsruhe University of Applied S
 - **Languages:**
    - C#, Java, C/C++, SQL, Python
   
-- **Build Tools:**  
-    - CMake (basic)
-  
 - **Tools & IDEs:**  
    - Eclipse, Visual Studio, Visual Studio Code, CLion
 
-- **Version Control:**  
-  - Git, GitHub
+- **Other:**  
+  - Version control and workflow with Git and GitHub
+  - Basic usage of CMake
+  - Experiance with databases: MySQL, POstgreSQL
+  - Experiance with game-engines: Uniy Engine,basic knowledge of Unreal Engine and Goddo
 
 ## 🚀 Current Projects:
 - **Arcade Game**  
