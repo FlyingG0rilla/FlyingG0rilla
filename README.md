@@ -38,7 +38,7 @@ I´m a computer science student at the HKA – Karlsruhe University of Applied S
 
 ## 📫 Contact / Links
 
-**EMail:** Schwabdennis.dev@web.de
+**EMail:** schwabdennis.dev@web.de
 
 
 <!--
