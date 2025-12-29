@@ -13,7 +13,7 @@ I´m a computer science student at the HKA – Karlsruhe University of Applied S
 - **Other:**  
   - Version control and workflow with Git and GitHub
   - Basic usage of CMake
-  - Experiance with databases: MySQL, POstgreSQL
+  - Experiance with databases:  MySQL, PostgreSQL
   - Experiance with game-engines: Uniy Engine,basic knowledge of Unreal Engine and Goddo
   - Basic knowledge of Android App development with Adroid studious
 
