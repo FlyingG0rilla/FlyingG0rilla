@@ -4,7 +4,7 @@ I´m a computer science student at the HKA – Karlsruhe University of Applied S
 
 ## 🛠️ Skills and Technologies:
 - **Languages:**
-   - C#, Java, C/C++, SQL, Python
+   - C#, Java, C, C++, SQL, Python
    - Basic knowledge of: HTML, CSS, JavaScript
   
 - **Tools & IDEs:**  
