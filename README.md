@@ -21,7 +21,7 @@ I´m a computer science student at the HKA – Karlsruhe University of Applied S
 - **AI Assisted Game Development**  
   - Currently working on an arcade game in C++ with SDL2 and GPT-5 as part of a university project. The goal is to learn and document larger scale software development with advanced language models and gain a deeper understanding of their strengths and limitations.
 
-- **3D Art Creator**     [3D Art creator] ([https://github.com/org/repo](https://github.com/BonsaiFicus/3D_ART_CREATOR))
+- **3D Art Creator**   ([https://github.com/org/repo](https://github.com/BonsaiFicus/3D_ART_CREATOR))
   - Currently developing as part of a university lab project. This tool transforms images into templates for 3D toothpick artworks, enabling artists to easily design and visualize intricate 3D structures before building them.
     
 
