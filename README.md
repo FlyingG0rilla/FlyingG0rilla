@@ -23,6 +23,7 @@ I´m a computer science student at the HKA – Karlsruhe University of Applied S
 
 - **3D Art Creator**  
   - Currently developing as part of a university lab project. This tool transforms images into templates for 3D toothpick artworks, enabling artists to easily design and visualize intricate 3D structures before building them.
+   [3D Art creator] ([https://github.com/org/repo](https://github.com/BonsaiFicus/3D_ART_CREATOR))
 
 - **Tower Defense Game**  
   - Developing a tower defense game in C# with Unity as a personal project, aiming to create a relaxing and strategic experience inspired by *Clash of Clans* and *Bad North*.
